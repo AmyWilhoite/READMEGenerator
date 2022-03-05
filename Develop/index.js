@@ -51,6 +51,11 @@ const questions = () => {
             topic: 'installation',
             question: 'What does the user need to know to install this (ex: install)?',
           },
+          {
+            info: 'input',
+            topic: 'page',
+            question: 'What is the URL to your public application (if applicable)?',
+          },
           
     ]);
 
