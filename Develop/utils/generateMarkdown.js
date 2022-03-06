@@ -15,14 +15,16 @@ function generateMarkdown(data) {
   return `# ${data.title}
   
 ## Title 
+<br>
 ${data.title}
 
 ## Description
+<br>
 ${data.description}
 
 ## Table of Contents
 
-* Installation Instructions
+* Installation Instructions 
 ${data.installation}
 
 * Usage
@@ -38,6 +40,7 @@ ${data.test}
 ${data.license}
 
 ## Badge
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Links
 * Repository URL: ${data.repo}
