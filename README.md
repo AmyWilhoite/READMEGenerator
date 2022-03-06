@@ -11,10 +11,6 @@ This allows for a README file to be created using command line application and c
 * Table of Contents (Installation, Usage, Contributions, Test)
 * License
 * Badge
-* Screenshot 
-* ```md
-    ![alt text](assets/images/screenshot.png)
-   ```
 * Github User Name
 * Links to repository
 * Email address (for additional questions)
@@ -22,10 +18,8 @@ This allows for a README file to be created using command line application and c
 
 
 ## Preview
-* ```md
-    ![alt text](assets/images/screenshot.png)
-   ```
-## Links
+* Link to Video: https://drive.google.com/file/d/17ZctIwB-Yz0z4sEs2GTYf4aS_tfEPkae/view
+## Link
 * Repository: https://github.com/AmyWilhoite/READMEGenerator.git
-* Video: TBA
+
 
