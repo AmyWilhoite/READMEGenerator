@@ -1,3 +1,4 @@
+// Due to time limitations,  was not able to get to these yet but was able to generate a general unlicense badge for the readme.
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {}
