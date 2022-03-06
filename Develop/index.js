@@ -24,7 +24,7 @@ const questions = [
             type: 'checkbox',
             name: 'license',
             message: 'What type of license should your project have?',
-            choices: [ 'Public', 'Permissive', 'LGPL', 'Copyleft', 'Proprietary'],
+            choices: [ 'Public', 'Permissive', 'LGPL', 'Copyleft', 'Proprietary', 'Unlicense'],
         },
         {
             type: 'input',
@@ -61,7 +61,7 @@ const questions = [
 // TODO: Create a function to write README file
 // syntax: fs.writeFile( file, data, options, callback )
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, generateMarkdown(data), (err) =>
+    fs.writeFile(fileName + ".md", generateMarkdown(data), (err) =>
     err ? console.log(err) : console.log('Success!!!'))
 };
 

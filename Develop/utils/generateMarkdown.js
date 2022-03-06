@@ -15,11 +15,9 @@ function generateMarkdown(data) {
   return `# ${data.title}
   
 ## Title 
-<br>
 ${data.title}
 
 ## Description
-<br>
 ${data.description}
 
 ## Table of Contents
@@ -40,7 +38,7 @@ ${data.test}
 ${data.license}
 
 ## Badge
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 ## Links
 * Repository URL: ${data.repo}
