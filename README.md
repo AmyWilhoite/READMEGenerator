@@ -18,8 +18,11 @@ This allows for a README file to be created using command line application and c
 
 
 ## Preview
-* Link to Video: https://drive.google.com/file/d/17ZctIwB-Yz0z4sEs2GTYf4aS_tfEPkae/view
+![App preview](./Develop/assets/mockup-readme.png)
+* Preview Content: https://drive.google.com/file/d/17ZctIwB-Yz0z4sEs2GTYf4aS_tfEPkae/view
+
 ## Link
 * Repository: https://github.com/AmyWilhoite/READMEGenerator.git
+
 
 
