@@ -19,10 +19,13 @@ This allows for a README file to be created using command line application and c
 
 ## Preview
 ![App preview](./Develop/assets/mockup-readme.png)
-* Preview Content: https://drive.google.com/file/d/17ZctIwB-Yz0z4sEs2GTYf4aS_tfEPkae/view
+* Preview Content: https://drive.google.com/file/d/17ZctIwB-Yz0z4sEs2GTYf4aS_tfEPkae/vie
 
 ## Link
 * Repository: https://github.com/AmyWilhoite/READMEGenerator.git
 
+## License
+
+  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 
